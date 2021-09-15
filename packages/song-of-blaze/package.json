@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://bnpm.byted.org"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yuban12315/novel-fiction.git"
